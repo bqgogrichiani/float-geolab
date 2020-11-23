@@ -1,0 +1,21 @@
+.wraper{
+	margin:20px;
+	width: 570px;
+	background-color: #99e6ff;
+}
+.image-statia{
+    padding:20px;
+	float: right;
+}
+.text-wraper{
+	padding:20px;
+}
+.text-wraper p{
+	text-indent: 20px;
+}
+.clear{
+	clear:both;
+}
+.p-text{
+	font-family: 'ArchyEDT-Bold';
+}
